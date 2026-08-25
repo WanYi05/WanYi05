@@ -1,4 +1,4 @@
-## Hi, I'm Wan 👋
+# Hi, I'm Wan 👋
 
 <!--
 **WanYi05/WanYi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
