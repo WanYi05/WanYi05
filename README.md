@@ -37,8 +37,8 @@ Building practical AI-powered tools with Python and automation.
 
 ## Featured Projects
 
-### 🚗 iRent AI Vehicle Condition Assistant
-AI-assisted vehicle condition inspection and fleet operations concept.
+### 🚗 [iRent AI Vehicle Condition Assistant](https://github.com/Ruei-Syuan/irent-project)
+Collaborative hackathon project focused on AI-assisted vehicle condition inspection and fleet operations.
 
 ### 📈 Wan ETF Lab
 A Streamlit-based ETF compound growth calculator and investment analysis project.
