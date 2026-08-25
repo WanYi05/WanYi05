@@ -48,11 +48,9 @@ Restaurant search and food-safety screening project using APIs and data processi
 
 ## Tools
 
-- ChatGPT
-- VS Code
-- GitHub
-- Notion
-- Obsidian
+[![Tools](https://skillicons.dev/icons?i=vscode,github,notion,obsidian&theme=light)](https://skillicons.dev)
+
+**AI Assistant:** ChatGPT
 
 ---
 
